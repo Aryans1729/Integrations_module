@@ -15,8 +15,8 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # HubSpot App Credentials
-CLIENT_ID = '3e185027-7d17-410e-80e6-8f18778eacd7'
-CLIENT_SECRET = 'f1462a2e-87ac-44ee-b58c-67481c7a3f09'
+CLIENT_ID = ''
+CLIENT_SECRET = ''
 REDIRECT_URI = 'http://localhost:8000/integrations/hubspot/oauth2callback'
 AUTHORIZATION_URL = 'https://app.hubspot.com/oauth/authorize'
 TOKEN_URL = 'https://api.hubapi.com/oauth/v1/token'
