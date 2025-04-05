@@ -1,7 +1,7 @@
 # Integrations Module  
 ### HubSpot, Notion & Airtable Integration with FastAPI  
 
-This project provides seamless integration with **HubSpot, Notion, and Airtable**, using a **FastAPI backend** and a **React-based frontend**. It follows the **OAuth 2.0 authentication flow**, allowing users to securely connect their accounts and retrieve relevant data from these platforms.
+This project provides seamless integration with **HubSpot, Notion, and Airtable**, using a **FastAPI backend** and a **React-based frontend**. It follows the **OAuth 2.0 authentication flow**, allowing users to securely connect their accounts and retrieve relevant data from these platforms. Deployed : https://integrations-module.vercel.app/
 
 ---
 
